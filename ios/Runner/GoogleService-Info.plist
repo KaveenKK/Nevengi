@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>10243904131-84fn5tpt1vl19jprvenmgg0pq6c9t2qa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.10243904131-84fn5tpt1vl19jprvenmgg0pq6c9t2qa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>10243904131-bufpccue02rgu8qtks8s78j4jh13tp31.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUGGVcQwFQQIcKgzJdXjtRYVdNVlCeQs0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>10243904131</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Nevengi.com</string>
+	<key>PROJECT_ID</key>
+	<string>nevengi</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nevengi.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:10243904131:ios:35867a0ee680d08d9141b6</string>
+</dict>
+</plist>

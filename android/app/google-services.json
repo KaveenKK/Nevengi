@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "10243904131",
+    "project_id": "nevengi",
+    "storage_bucket": "nevengi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10243904131:android:cf52f3b0af3774629141b6",
+        "android_client_info": {
+          "package_name": "Nevengi.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10243904131-bufpccue02rgu8qtks8s78j4jh13tp31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Nevengi.com",
+            "certificate_hash": "80584451aebbe8f9908186210adec5b9333ff2bc"
+          }
+        },
+        {
+          "client_id": "10243904131-ins8lde6lkkbldsa7q5tdd80r4ussbsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Nevengi.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "10243904131-sel38jkvshdmof2ads4ojo1mcb2ncfd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVTbWTwZvbJqkmeOR0K0Ro3w031R0RQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10243904131-sel38jkvshdmof2ads4ojo1mcb2ncfd9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "10243904131-84fn5tpt1vl19jprvenmgg0pq6c9t2qa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Nevengi.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
